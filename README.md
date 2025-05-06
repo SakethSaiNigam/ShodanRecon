@@ -21,13 +21,14 @@ pip install requests
 
 🔑 Setup
 
-Get a free Shodan API key: https://account.shodan.io/
-Replace YOUR_API_KEY in the script with your key.
+1. Get a free Shodan API key: https://account.shodan.io/
+2. Replace YOUR_API_KEY in the script with your key.
 
 📌 Notes
 
-Free Shodan API keys work only for specific endpoints.
-This tool uses the /shodan/host/{ip} endpoint (free-accessible).
+1. Free Shodan API keys work only for specific endpoints.
+2. This tool uses the /shodan/host/{ip} endpoint (free-accessible).
+
 🛠️ Future Upgrades
 
 🔧 GUI version (Tkinter/Flask)
