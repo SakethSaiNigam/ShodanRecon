@@ -17,6 +17,7 @@ ShodanRecon is a Python-based real-time reconnaissance tool that uses the Shodan
 
 ```bash
 pip install requests
+```
 
 🔑 Setup
 
