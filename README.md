@@ -1,4 +1,4 @@
-💼 Real-Time Network Vulnerability Scanner using Shodan API
+# 💼 Network Vulnerability Scanner using Shodan API
 
 ShodanRecon is a Python-based real-time reconnaissance tool that uses the Shodan API to scan public IP addresses for open ports, services, and metadata. Ideal for security analysts, ethical hackers, or IT professionals seeking visibility into externally exposed assets.
 
